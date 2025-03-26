@@ -22,10 +22,10 @@ I'm a **Frontend Developer** passionate about building responsive and user-frien
 
 ---
 
-## 📈 **My GitHub Stats**  
+<!--  ## 📈 **My GitHub Stats**  
 ![Fizze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fizze003&show_icons=true&hide_title=true)
 
----
+---   -->
 
 ## 📬 **Contact Me**  
 📧 Email: **miragayevafizze@gmail.com**  
