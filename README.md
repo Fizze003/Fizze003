@@ -30,7 +30,7 @@ I'm a **Frontend Developer** passionate about building responsive and user-frien
 ## 📬 **Contact Me**  
 📧 Email: **miragayevafizze@gmail.com**  
 🌐 GitHub: [@Fizze003](https://github.com/Fizze003)  
-🌍 LinkedIn: (https://www.linkedin.com/in/fizz%C9%99-mira%C4%9Fayeva-34657627b/)
+🌍 LinkedIn: https://www.linkedin.com/in/fizz%C9%99-mira%C4%9Fayeva-34657627b
 
 ---
 
