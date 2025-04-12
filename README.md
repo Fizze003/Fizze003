@@ -1,9 +1,6 @@
 # 👋 Hi, I'm **Fizze**
 
 I'm a **Frontend Developer** passionate about building responsive and user-friendly websites using modern web technologies. I'm constantly learning and experimenting with new tools and frameworks to enhance my skills.
-
-🌟 Currently learning **React.js** and **ASP.NET Core** to become a **Full Stack Developer**.  
-
 ---
 
 ## 🚀 **Technologies & Tools**  
