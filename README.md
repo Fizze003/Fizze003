@@ -14,12 +14,6 @@ I'm a **Frontend Developer** passionate about building responsive and user-frien
 
 ---
 
-## 💼 **Projects**  
-1. **[Travelo Website](https://github.com/Fizze003/Travelo-Website)** – A travel booking website built with **HTML, CSS, JavaScript**, and **Bootstrap**.  
-2. **[EduHome](https://github.com/Fizze003/EduHome)** – An educational platform with **responsive design** and **interactive features**.
-
----
-
 <!--  ## 📈 **My GitHub Stats**  
 ![Fizze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fizze003&show_icons=true&hide_title=true)
 
