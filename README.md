@@ -1,6 +1,7 @@
 # 👋 Hi, I'm **Fizze**
 
-I'm a **Frontend Developer** passionate about building responsive and user-friendly websites using modern web technologies. I'm constantly learning and experimenting with new tools and frameworks to enhance my skills.
+I'm a **Frontend Developer** passionate about building responsive and user-friendly websites using modern web technologies. I'm constantly learning and experimenting with new tools and frameworks to enhance my skills. **
+
 ---
 
 ## 🚀 **Technologies & Tools**  
